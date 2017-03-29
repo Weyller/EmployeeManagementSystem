@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Employee Management System</string>
+    <string name="preference_key">com.pranaykumar.dbmsproject</string>
+    <string name="empty_status">empty_status</string>
+    <string name="welcome_text">Welcome to Employee Database Management System. This app provides you options to enter records and view database</string>
+</resources>
